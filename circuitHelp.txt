@@ -1,0 +1,40 @@
+Hey what's up! Hope all is well.
+
+I am looking to design a binaural beats generator.
+
+My reference: https://syntherjack.net/binaural-beat-generator-1-5-arduino/
+
+My issue is I have little to no experience making circuit diagrams as well as putting all the components together.
+
+I am a software developer so I'm not worried about the code side of things.
+
+Here's what I am looking for:
+
+The parts list
+--------------
+	- Keep the Arduino nano as brain
+
+	- A OLED 0.96 display (ssd1306 SPI)
+
+	- Two AD9833 only to create sine waves
+
+
+However, I would like a twist to this:
+--------------------------------------
+	- I only want one rotary encoder
+(ky-040 Rotary Encoder. Essentially, one with a rotary and with a push button all in one)
+
+	- Run on batteries (or some alternative power source other than using the usb)
+
+	- Headphone output to listen to waveform generated sound
+
+
+If you have suggestions on using different parts or ideas let me know!
+
+
+Some questions I have:
+----------------------
+- Is it possible if you can get the PCB board and parts to assemble and then you can send the device? Of course, I would pay for the parts and more if this is feasible.
+
+- Alternatively, I can just take the schematic and buy the parts m
+
